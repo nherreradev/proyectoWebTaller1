@@ -1,1 +1,1 @@
-# proyectoCursadaTaller1Unlam
+# Proyecto Academico donde se realiza una aplicacion web similar a pedidos ya, pero en el contexto de una clinica, donde los afiliados pueden solicitar asistencia medica a domicilio o turno en consultorio segun se requiere.
